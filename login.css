@@ -6,6 +6,8 @@ html,body{
     width: 100vw;
     height: 100vh;
     display: flex;
+    color: blue;
+    background-color: #a2d2ff;
     justify-content: center;
     align-items: center;
 }
@@ -15,9 +17,10 @@ html,body{
     border-width: 4px;
     border-radius: 12px;
     border-color: rgba(0,0,0,0.3);
-    background-color: rgba(0,0,0,0.05);
+    background-color: #FFD6BA;
     min-width: 30%;
     min-height: 20%;
     display: flex;
-    flex-direction: column;
+    flex-direction: column;;
+    align-items: center;
 }
