@@ -18,6 +18,7 @@ html,body{
     border-radius: 12px;
     border-color: rgba(0,0,0,0.3);
     background-color: #FFD6BA;
+    box-shadow: 10px 5px 5px red;
     min-width: 30%;
     min-height: 20%;
     display: flex;
