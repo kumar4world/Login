@@ -17,11 +17,32 @@ html,body{
     border-width: 4px;
     border-radius: 12px;
     border-color: rgba(0,0,0,0.3);
-    background-color: #FFD6BA;
+    background-color: #FFD6BB;
     box-shadow: 10px 5px 5px red;
     min-width: 30%;
     min-height: 20%;
     display: flex;
-    flex-direction: column;;
+    flex-direction: column;
     align-items: center;
+}
+
+#username {
+       height: 1.5rem;
+     } 
+#password {
+       height: 1.5rem;
+     }
+#submit {
+           height: 2.5rem;
+           width: 10rem;
+           color: blue;
+           background-color: #EFF2C0;
+           border-radius: 12px;
+    }
+form {
+     display: flex;
+     flex-direction: column;
+     align-items:center;
+     min-width: 30%;
+     height: auto;
 }
