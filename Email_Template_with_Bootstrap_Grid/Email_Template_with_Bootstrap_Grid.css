@@ -1,0 +1,90 @@
+.full-width-div {
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
+.mycol-1 {
+    height: 100vh;
+    background-color: #796b4d;
+}
+.mycol-2 {
+    height: 100vh;
+    background-color: #e9e7de;
+}
+.mycol-3 {
+    background-color: white;
+    border-radius: 8px;
+    height: 10vh;
+
+}
+.mycol-4 {
+    height: 10vh;
+
+}
+.mycol-5 {
+    font-size: 60px;
+}
+.mycol-6 {
+    border-style:solid;
+    height: 12rem;
+    width: 45rem;
+    border-width: thin;
+}
+.mycol-7 {
+    position:relative;
+    bottom: -150px;
+    right: -600px;
+    font-size: 8px;
+    width: 80px;
+    height: 30px;
+    border-color: orange;
+    background-color: white;
+    color: orange;
+    font-weight: 500;
+    font-size: small;
+}
+.mycol-8 {
+    position:relative;
+    bottom: 40px;
+    left: 50px;
+    font-size: 15px;
+}
+.mycol-9 {
+    height: 8rem;
+    width: 45rem;
+}
+.mycol-10 {
+    font-weight:lighter;
+}
+#submit {
+    height: 2.5rem;
+    width: 10rem;
+    color: white;
+    background-color: #ddb77e;
+    border-radius: 12px;
+}
+#submit2 {
+    height: 1.8rem;
+    width: 4rem;
+    color: white;
+    background-color: #868bb9;
+    border-radius: 6px;
+}
+
+.title:hover {
+    color: blue;
+  }
+  img {
+    border-radius: 100%;
+  }
+  .welcome{
+    color: white;
+  }
+  #search-text-input{
+    width: 80%;
+    height: 2.6rem;}
+
+    .bold_font{
+font-size:xx-large;
+font-weight: 1000;
+    }
